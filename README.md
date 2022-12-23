@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aiyanu
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aiyanu1.00@gmail.com
+-Hi I am Iyanu
+-I'm currently learning web development
+- The key is building different web components
+- add
+- Persistence
 
 <!---
 Aiyanu/Aiyanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
