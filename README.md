@@ -1,5 +1,5 @@
 -Hi I am Iyanu
-I'm skilled in react and nextjs
+-I'm skilled in react and nextjs
 -I'm currently learning web development
 - The key is building different web components 
 - They'll come together to form something larger
