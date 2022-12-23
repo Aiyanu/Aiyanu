@@ -1,7 +1,7 @@
 -Hi I am Iyanu
 -I'm currently learning web development
 - The key is building different web components
-- add
+- and
 - Persistence
 
 <!---
