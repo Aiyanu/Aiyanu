@@ -4,7 +4,6 @@
 - I'm currently learning web development
 - The key is building different web components 
 - They'll come together to form something larger
-- and
 - Consistency and practice is essential
 
 <!---
